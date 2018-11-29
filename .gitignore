@@ -42,6 +42,7 @@ Temporary Items
 
 ### Node modules ###
 node_modules/
+arquivos da landpage/
 
 ### Distribution/build folder ###
 dist/
