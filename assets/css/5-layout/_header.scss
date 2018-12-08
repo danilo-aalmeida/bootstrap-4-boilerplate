@@ -1,3 +1,7 @@
+.container{
+    font-family: 'source-regular';
+}
+
 .header-topo{
     padding-top:120px;
     padding-bottom: 310px;
@@ -16,7 +20,7 @@
     height: 100px;
     width: 300px;
     top: 20px;
-    padding-bottom: 125px;
+    padding-bottom: 130px;
 }
 
 .doula h1{
@@ -25,9 +29,10 @@
 }
 
 .doula h4{
+    font-size: 30px;
     height: 100px;
     width: 300px;
-    top: 20px;
+    top: 50px;
 }
 
 .link-app{
@@ -54,8 +59,6 @@
 
 .cadastro-email{
     display: flex;
-    flex-direction: row;
-    left: 500px;
 }
 
 .main-2{
@@ -92,10 +95,30 @@
     background-repeat: no-repeat;
 }
 
-.main-3.container {
+.main-3 {
     top: 500px;
 }
 
+.main-3 h5{
+    font-size: 30px;
+    color: #6bc7d2;
+}
+
+.main-3 ul{
+    list-style: none;
+    font-size: 17px;
+}
+
+.main-3 ul li{
+    padding-left: 1em; 
+    text-indent: -.7em;
+}
+
+.main-3 ul li::before{
+    content: "• ";
+    color:#6bc7d2;
+    font-size: 30px;
+}
 
 
 @font-face {
