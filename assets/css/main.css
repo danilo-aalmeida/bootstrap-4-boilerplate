@@ -7794,7 +7794,7 @@ html {
   height: 50px; }
 
 .main-1 {
-  padding-bottom: 300px;
+  padding-bottom: 185px;
   background-image: url("/assets/img/landpage_02.jpg");
   background-size: auto;
   background-position: center center;
@@ -7850,6 +7850,9 @@ html {
   content: "• ";
   color: #6bc7d2;
   font-size: 30px; }
+
+.footer {
+  padding-bottom: 50px; }
 
 @font-face {
   font-family: 'source-regular';
