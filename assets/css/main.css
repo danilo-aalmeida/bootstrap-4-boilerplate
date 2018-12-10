@@ -7794,8 +7794,7 @@ html {
   height: 50px; }
 
 .main-1 {
-  padding-top: 1px;
-  padding-bottom: 233px;
+  padding-bottom: 300px;
   background-image: url("/assets/img/landpage_02.jpg");
   background-size: auto;
   background-position: center center;
@@ -7805,7 +7804,7 @@ html {
   display: flex; }
 
 .main-2 {
-  padding-top: 100px;
+  padding-top: 50px;
   padding-bottom: 10px;
   background-color: #f2bbad; }
 
@@ -7828,15 +7827,12 @@ html {
   color: #ffffff; }
 
 .main-3 {
-  padding-top: 1px;
+  padding-top: 380px;
   padding-bottom: 0px;
   background-image: url("/assets/img/landpage_03.jpg");
   background-size: auto;
-  background-position: center center;
+  background-position: top center;
   background-repeat: no-repeat; }
-
-.main-3 {
-  top: 500px; }
 
 .main-3 h5 {
   font-size: 30px;

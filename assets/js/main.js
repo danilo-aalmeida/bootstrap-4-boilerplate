@@ -20,4 +20,7 @@ $( document ).ready(function() {
 
 });
 
+function confirmEmail(){
+  alert('Obrigado por se cadastrar!');
+}
 //# sourceMappingURL=main.js.map
